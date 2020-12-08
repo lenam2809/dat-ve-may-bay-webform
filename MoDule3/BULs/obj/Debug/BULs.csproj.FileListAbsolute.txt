@@ -1,0 +1,11 @@
+E:\Kỳ học hè\Lập trình Windows\BTL\FileBTL\MoDule3\BULs\bin\Debug\BULs.dll
+E:\Kỳ học hè\Lập trình Windows\BTL\FileBTL\MoDule3\BULs\bin\Debug\BULs.pdb
+E:\Kỳ học hè\Lập trình Windows\BTL\FileBTL\MoDule3\BULs\bin\Debug\DALs.dll
+E:\Kỳ học hè\Lập trình Windows\BTL\FileBTL\MoDule3\BULs\bin\Debug\DTOs.dll
+E:\Kỳ học hè\Lập trình Windows\BTL\FileBTL\MoDule3\BULs\bin\Debug\DALs.pdb
+E:\Kỳ học hè\Lập trình Windows\BTL\FileBTL\MoDule3\BULs\bin\Debug\DTOs.pdb
+E:\Kỳ học hè\Lập trình Windows\BTL\FileBTL\MoDule3\BULs\obj\Debug\BULs.csproj.CoreCompileInputs.cache
+E:\Kỳ học hè\Lập trình Windows\BTL\FileBTL\MoDule3\BULs\obj\Debug\BULs.csproj.CopyComplete
+E:\Kỳ học hè\Lập trình Windows\BTL\FileBTL\MoDule3\BULs\obj\Debug\BULs.dll
+E:\Kỳ học hè\Lập trình Windows\BTL\FileBTL\MoDule3\BULs\obj\Debug\BULs.pdb
+E:\Kỳ học hè\Lập trình Windows\BTL\FileBTL\MoDule3\BULs\obj\Debug\BULs.csprojAssemblyReference.cache

@@ -1,0 +1,5 @@
+E:\Kỳ học hè\Lập trình Windows\BTL\FileBTL\MoDule3\DTOs\bin\Debug\DTOs.dll
+E:\Kỳ học hè\Lập trình Windows\BTL\FileBTL\MoDule3\DTOs\bin\Debug\DTOs.pdb
+E:\Kỳ học hè\Lập trình Windows\BTL\FileBTL\MoDule3\DTOs\obj\Debug\DTOs.csproj.CoreCompileInputs.cache
+E:\Kỳ học hè\Lập trình Windows\BTL\FileBTL\MoDule3\DTOs\obj\Debug\DTOs.dll
+E:\Kỳ học hè\Lập trình Windows\BTL\FileBTL\MoDule3\DTOs\obj\Debug\DTOs.pdb
