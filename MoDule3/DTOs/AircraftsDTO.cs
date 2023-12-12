@@ -18,14 +18,14 @@ namespace DTOs
         {
 
         }
-        public AircraftsDTO(int id, string name, string make, int total, int econo, int busin)
+        public AircraftsDTO(int id, string name, string makeModel, int totalSeats, int economySeats, int businessSeats)
         {
             this.ID = id;
             this.Name = name;
-            this.MakeModel = make;
-            this.TotalSeats = total;
-            this.EconomySeats = econo;
-            this.BusinessSeats = busin;
+            this.MakeModel = makeModel;
+            this.TotalSeats = totalSeats;
+            this.EconomySeats = economySeats;
+            this.BusinessSeats = businessSeats;
         }
     }
 }
